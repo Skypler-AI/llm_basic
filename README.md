@@ -1,6 +1,16 @@
 # llm_basic
 These are basic llm projects made for practice
 
-# my this month, i will completely master all of llm and have started my own foundational model of 1 billion param in A100 with all of AI Data. And then expand really big.
+# project 1: will be full transformer code from scartch
 
-# i got this, someone really has to this, why not me???
+# project 2: shakesphere dataset
+
+# project 3: open web
+
+# project 4: llm 1: fine tuned version (qlora)
+
+# project 5: llm 2: vision model from scratch
+
+# project 6: llm 3: orchestrator
+
+# project 7: foundational 1 billion parameter model from scartch on all of AI data
